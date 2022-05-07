@@ -35,11 +35,6 @@ enableRobotsTXT = true
 
 
 [menu]
-  [[menu.main]]
-    identifier = 'home'
-    name = "Home"
-    url = '//'
-    weight = 1
 
   [[menu.main]]
     identifier = 'posts'
